@@ -2,4 +2,5 @@
  :deps {org.clojure/clojure {:mvn/version "1.11.1"}
         scicloj/tech.ml.dataset {:mvn/version "7.014"}
         scicloj/smile.classification {:mvn/version "1.0.1"}}
+ :mvn/repos {"clojars" {:url "https://clojars.org/repo"}}
  :aliases {:dev {:extra-paths ["dev"]}}}
