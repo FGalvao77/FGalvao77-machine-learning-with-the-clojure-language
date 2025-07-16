@@ -1,0 +1,13 @@
+# Clojure build artifacts
+/target/
+.cpcache/
+
+# Calva
+.calva/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db

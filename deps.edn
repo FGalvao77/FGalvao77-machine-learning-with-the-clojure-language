@@ -1,0 +1,5 @@
+{:paths ["src" "resources"]
+ :deps {org.clojure/clojure {:mvn/version "1.11.1"}
+        scicloj/tech.ml.dataset {:mvn/version "7.014"}
+        scicloj/smile.classification {:mvn/version "1.0.1"}}
+ :aliases {:dev {:extra-paths ["dev"]}}}

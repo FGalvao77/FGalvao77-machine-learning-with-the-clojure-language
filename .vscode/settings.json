@@ -1,0 +1,11 @@
+{
+    "calva.replConnectSequences": [
+        {
+            "name": "Clojure CLI",
+            "projectType": "deps.edn",
+            "cljsType": "none",
+            "cmd": ["clojure", "-M:dev"],
+            "replStartingPort": 5555
+        }
+    ]
+}
